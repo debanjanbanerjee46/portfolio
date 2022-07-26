@@ -172,4 +172,7 @@ body{
     flex-wrap: wrap;
     justify-content: center;
   }
-         
+  .card:focus span{
+    background-position:bottom center ;
+
+  }   
